@@ -1,2 +1,2 @@
-# carousel_component-lec22-
+# bootstrap_component-lec22-
 carousel component from live 
